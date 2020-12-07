@@ -1,4 +1,2 @@
-data/train.csv
-data/evaluation.csv
-data/train_data_preprocessed.csv
+data/*
 .ipynb_checkpoints/*
